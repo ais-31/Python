@@ -1,2 +1,2 @@
 # Python
-Kumpulan project dengan bahasa Python dalam belajar data analyst
+Kumpulan latihan dengan bahasa Python dalam belajar data analyst
